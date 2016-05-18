@@ -1,1 +1,3 @@
-This is repository for Software University 2016
+#SoftUni
+
+This is repository for all homeworks from Software University 2016
