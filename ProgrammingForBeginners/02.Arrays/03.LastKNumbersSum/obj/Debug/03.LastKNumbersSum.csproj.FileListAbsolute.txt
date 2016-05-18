@@ -1,0 +1,12 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\03.LastKNumbersSum\bin\Debug\03.LastKNumbersSum.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\03.LastKNumbersSum\obj\Debug\03.LastKNumbersSum.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\03.LastKNumbersSum\bin\Debug\03.LastKNumbersSum.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\03.LastKNumbersSum\bin\Debug\03.LastKNumbersSum.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\03.LastKNumbersSum\obj\Debug\03.LastKNumbersSum.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\03.LastKNumbersSum\obj\Debug\03.LastKNumbersSum.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\03.LastKNumbersSum\bin\Debug\03.LastKNumbersSum.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\03.LastKNumbersSum\bin\Debug\03.LastKNumbersSum.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\03.LastKNumbersSum\bin\Debug\03.LastKNumbersSum.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\03.LastKNumbersSum\obj\Debug\03.LastKNumbersSum.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\03.LastKNumbersSum\obj\Debug\03.LastKNumbersSum.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\03.LastKNumbersSum\obj\Debug\03.LastKNumbersSum.pdb

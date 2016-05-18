@@ -1,5 +1,0 @@
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\Exam24April2016\02.Problem2\bin\Debug\02.Problem2.exe.config
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\Exam24April2016\02.Problem2\bin\Debug\02.Problem2.exe
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\Exam24April2016\02.Problem2\bin\Debug\02.Problem2.pdb
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\Exam24April2016\02.Problem2\obj\Debug\02.Problem2.exe
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\Exam24April2016\02.Problem2\obj\Debug\02.Problem2.pdb

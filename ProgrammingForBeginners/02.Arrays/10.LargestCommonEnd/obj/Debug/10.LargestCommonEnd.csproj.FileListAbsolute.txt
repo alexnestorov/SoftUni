@@ -1,0 +1,12 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\10.LargestCommonEnd\bin\Debug\10.LargestCommonEnd.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\10.LargestCommonEnd\bin\Debug\10.LargestCommonEnd.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\10.LargestCommonEnd\bin\Debug\10.LargestCommonEnd.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\10.LargestCommonEnd\obj\Debug\10.LargestCommonEnd.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\10.LargestCommonEnd\obj\Debug\10.LargestCommonEnd.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\10.LargestCommonEnd\obj\Debug\10.LargestCommonEnd.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\10.LargestCommonEnd\bin\Debug\10.LargestCommonEnd.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\10.LargestCommonEnd\bin\Debug\10.LargestCommonEnd.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\10.LargestCommonEnd\bin\Debug\10.LargestCommonEnd.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\10.LargestCommonEnd\obj\Debug\10.LargestCommonEnd.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\10.LargestCommonEnd\obj\Debug\10.LargestCommonEnd.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\10.LargestCommonEnd\obj\Debug\10.LargestCommonEnd.pdb

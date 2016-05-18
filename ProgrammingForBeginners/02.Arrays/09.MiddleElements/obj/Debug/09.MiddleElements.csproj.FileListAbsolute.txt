@@ -1,0 +1,10 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\09.MiddleElements\bin\Debug\09.MiddleElements.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\09.MiddleElements\bin\Debug\09.MiddleElements.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\09.MiddleElements\bin\Debug\09.MiddleElements.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\09.MiddleElements\obj\Debug\09.MiddleElements.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\09.MiddleElements\obj\Debug\09.MiddleElements.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\09.MiddleElements\bin\Debug\09.MiddleElements.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\09.MiddleElements\bin\Debug\09.MiddleElements.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\09.MiddleElements\bin\Debug\09.MiddleElements.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\09.MiddleElements\obj\Debug\09.MiddleElements.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\09.MiddleElements\obj\Debug\09.MiddleElements.pdb

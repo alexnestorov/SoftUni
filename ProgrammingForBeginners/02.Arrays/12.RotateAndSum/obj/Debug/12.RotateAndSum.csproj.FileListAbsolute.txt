@@ -1,0 +1,12 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\12.RotateAndSum\bin\Debug\12.RotateAndSum.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\12.RotateAndSum\bin\Debug\12.RotateAndSum.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\12.RotateAndSum\bin\Debug\12.RotateAndSum.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\12.RotateAndSum\obj\Debug\12.RotateAndSum.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\12.RotateAndSum\obj\Debug\12.RotateAndSum.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\12.RotateAndSum\obj\Debug\12.RotateAndSum.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\12.RotateAndSum\bin\Debug\12.RotateAndSum.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\12.RotateAndSum\obj\Debug\12.RotateAndSum.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\12.RotateAndSum\obj\Debug\12.RotateAndSum.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\12.RotateAndSum\bin\Debug\12.RotateAndSum.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\12.RotateAndSum\bin\Debug\12.RotateAndSum.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\12.RotateAndSum\obj\Debug\12.RotateAndSum.csprojResolveAssemblyReference.cache

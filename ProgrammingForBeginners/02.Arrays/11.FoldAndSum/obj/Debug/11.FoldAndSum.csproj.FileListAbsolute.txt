@@ -1,0 +1,12 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\11.FoldAndSum\bin\Debug\11.FoldAndSum.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\11.FoldAndSum\obj\Debug\11.FoldAndSum.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\11.FoldAndSum\bin\Debug\11.FoldAndSum.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\11.FoldAndSum\bin\Debug\11.FoldAndSum.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\11.FoldAndSum\obj\Debug\11.FoldAndSum.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\11.FoldAndSum\obj\Debug\11.FoldAndSum.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\11.FoldAndSum\bin\Debug\11.FoldAndSum.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\11.FoldAndSum\bin\Debug\11.FoldAndSum.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\11.FoldAndSum\bin\Debug\11.FoldAndSum.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\11.FoldAndSum\obj\Debug\11.FoldAndSum.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\11.FoldAndSum\obj\Debug\11.FoldAndSum.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\11.FoldAndSum\obj\Debug\11.FoldAndSum.pdb

@@ -1,0 +1,11 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\04.SumMinMaxFirstLastAverage\bin\Debug\04.SumMinMaxFirstLastAverage.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\04.SumMinMaxFirstLastAverage\bin\Debug\04.SumMinMaxFirstLastAverage.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\04.SumMinMaxFirstLastAverage\bin\Debug\04.SumMinMaxFirstLastAverage.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\04.SumMinMaxFirstLastAverage\obj\Debug\04.SumMinMaxFirstLastAverage.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\04.SumMinMaxFirstLastAverage\obj\Debug\04.SumMinMaxFirstLastAverage.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\04.SumMinMaxFirstLastAverage\bin\Debug\04.SumMinMaxFirstLastAverage.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\04.SumMinMaxFirstLastAverage\bin\Debug\04.SumMinMaxFirstLastAverage.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\04.SumMinMaxFirstLastAverage\bin\Debug\04.SumMinMaxFirstLastAverage.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\04.SumMinMaxFirstLastAverage\obj\Debug\04.SumMinMaxFirstLastAverage.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\04.SumMinMaxFirstLastAverage\obj\Debug\04.SumMinMaxFirstLastAverage.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\04.SumMinMaxFirstLastAverage\obj\Debug\04.SumMinMaxFirstLastAverage.pdb

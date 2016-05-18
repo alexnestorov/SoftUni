@@ -1,0 +1,12 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\02.PrimeNumbers\bin\Debug\02.PrimeNumbers.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\02.PrimeNumbers\bin\Debug\02.PrimeNumbers.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\02.PrimeNumbers\bin\Debug\02.PrimeNumbers.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\02.PrimeNumbers\obj\Debug\02.PrimeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\02.PrimeNumbers\obj\Debug\02.PrimeNumbers.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\01.DayOfWeek\02.PrimeNumbers\obj\Debug\02.PrimeNumbers.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\02.PrimeNumbers\bin\Debug\02.PrimeNumbers.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\02.PrimeNumbers\obj\Debug\02.PrimeNumbers.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\02.PrimeNumbers\obj\Debug\02.PrimeNumbers.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\02.PrimeNumbers\bin\Debug\02.PrimeNumbers.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\02.PrimeNumbers\bin\Debug\02.PrimeNumbers.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\02.Arrays\02.PrimeNumbers\obj\Debug\02.PrimeNumbers.csprojResolveAssemblyReference.cache
