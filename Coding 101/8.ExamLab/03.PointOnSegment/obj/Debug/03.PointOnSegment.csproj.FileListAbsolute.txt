@@ -1,0 +1,12 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\03.PointOnSegment\bin\Debug\03.PointOnSegment.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\03.PointOnSegment\bin\Debug\03.PointOnSegment.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\03.PointOnSegment\bin\Debug\03.PointOnSegment.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\03.PointOnSegment\obj\Debug\03.PointOnSegment.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\03.PointOnSegment\obj\Debug\03.PointOnSegment.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\03.PointOnSegment\obj\Debug\03.PointOnSegment.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\03.PointOnSegment\bin\Debug\03.PointOnSegment.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\03.PointOnSegment\obj\Debug\03.PointOnSegment.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\03.PointOnSegment\obj\Debug\03.PointOnSegment.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\03.PointOnSegment\bin\Debug\03.PointOnSegment.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\03.PointOnSegment\bin\Debug\03.PointOnSegment.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\03.PointOnSegment\obj\Debug\03.PointOnSegment.csprojResolveAssemblyReference.cache

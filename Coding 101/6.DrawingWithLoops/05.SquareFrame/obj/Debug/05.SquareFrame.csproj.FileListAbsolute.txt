@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\05.SquareFrame\bin\Debug\05.SquareFrame.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\05.SquareFrame\bin\Debug\05.SquareFrame.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\05.SquareFrame\bin\Debug\05.SquareFrame.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\05.SquareFrame\obj\Debug\05.SquareFrame.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\05.SquareFrame\obj\Debug\05.SquareFrame.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\05.SquareFrame\obj\Debug\05.SquareFrame.csprojResolveAssemblyReference.cache

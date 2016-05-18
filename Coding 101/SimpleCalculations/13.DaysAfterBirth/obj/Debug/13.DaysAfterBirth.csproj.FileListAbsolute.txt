@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\13.DaysAfterBirth\bin\Debug\13.DaysAfterBirth.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\13.DaysAfterBirth\bin\Debug\13.DaysAfterBirth.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\13.DaysAfterBirth\bin\Debug\13.DaysAfterBirth.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\13.DaysAfterBirth\obj\Debug\13.DaysAfterBirth.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\13.DaysAfterBirth\obj\Debug\13.DaysAfterBirth.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\13.DaysAfterBirth\obj\Debug\13.DaysAfterBirth.csprojResolveAssemblyReference.cache

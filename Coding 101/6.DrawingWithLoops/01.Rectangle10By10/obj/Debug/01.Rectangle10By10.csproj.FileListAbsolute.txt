@@ -1,0 +1,5 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\01.Rectangle10By10\bin\Debug\01.Rectangle10By10.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\01.Rectangle10By10\bin\Debug\01.Rectangle10By10.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\01.Rectangle10By10\bin\Debug\01.Rectangle10By10.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\01.Rectangle10By10\obj\Debug\01.Rectangle10By10.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\01.Rectangle10By10\obj\Debug\01.Rectangle10By10.pdb

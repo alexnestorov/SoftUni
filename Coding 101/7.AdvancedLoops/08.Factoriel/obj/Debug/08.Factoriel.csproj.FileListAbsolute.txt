@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\7.AdvancedLoops\08.Factoriel\bin\Debug\08.Factoriel.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\7.AdvancedLoops\08.Factoriel\bin\Debug\08.Factoriel.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\7.AdvancedLoops\08.Factoriel\bin\Debug\08.Factoriel.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\7.AdvancedLoops\08.Factoriel\obj\Debug\08.Factoriel.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\7.AdvancedLoops\08.Factoriel\obj\Debug\08.Factoriel.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\7.AdvancedLoops\08.Factoriel\obj\Debug\08.Factoriel.pdb

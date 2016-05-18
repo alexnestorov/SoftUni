@@ -1,0 +1,5 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\09.House\bin\Debug\09.House.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\09.House\bin\Debug\09.House.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\09.House\bin\Debug\09.House.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\09.House\obj\Debug\09.House.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\09.House\obj\Debug\09.House.pdb

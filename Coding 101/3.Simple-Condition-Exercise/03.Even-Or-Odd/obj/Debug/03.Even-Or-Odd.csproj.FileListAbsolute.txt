@@ -1,0 +1,5 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\03.Even-Or-Odd\bin\Debug\03.Even-Or-Odd.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\03.Even-Or-Odd\bin\Debug\03.Even-Or-Odd.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\03.Even-Or-Odd\bin\Debug\03.Even-Or-Odd.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\03.Even-Or-Odd\obj\Debug\03.Even-Or-Odd.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\03.Even-Or-Odd\obj\Debug\03.Even-Or-Odd.pdb

@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\Bits\bin\Debug\Bits.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\Bits\bin\Debug\Bits.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\Bits\bin\Debug\Bits.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\Bits\obj\Debug\Bits.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\Bits\obj\Debug\Bits.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\Bits\obj\Debug\Bits.pdb

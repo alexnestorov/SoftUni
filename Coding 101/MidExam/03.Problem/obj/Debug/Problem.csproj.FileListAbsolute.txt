@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\MidExam\Problem\bin\Debug\Problem.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\MidExam\Problem\bin\Debug\Problem.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\MidExam\Problem\bin\Debug\Problem.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\MidExam\Problem\obj\Debug\Problem.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\MidExam\Problem\obj\Debug\Problem.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\MidExam\Problem\obj\Debug\Problem.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\01.PrintNumbers-1-To-100\bin\Debug\01.PrintNumbers-1-To-100.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\01.PrintNumbers-1-To-100\bin\Debug\01.PrintNumbers-1-To-100.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\01.PrintNumbers-1-To-100\bin\Debug\01.PrintNumbers-1-To-100.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\01.PrintNumbers-1-To-100\obj\Debug\01.PrintNumbers-1-To-100.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\01.PrintNumbers-1-To-100\obj\Debug\01.PrintNumbers-1-To-100.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\01.PrintNumbers-1-To-100\obj\Debug\01.PrintNumbers-1-To-100.pdb

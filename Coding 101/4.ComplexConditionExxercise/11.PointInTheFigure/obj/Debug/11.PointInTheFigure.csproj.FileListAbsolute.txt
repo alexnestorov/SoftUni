@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\11.PointInTheFigure\bin\Debug\11.PointInTheFigure.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\11.PointInTheFigure\bin\Debug\11.PointInTheFigure.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\11.PointInTheFigure\bin\Debug\11.PointInTheFigure.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\11.PointInTheFigure\obj\Debug\11.PointInTheFigure.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\11.PointInTheFigure\obj\Debug\11.PointInTheFigure.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\11.PointInTheFigure\obj\Debug\11.PointInTheFigure.pdb

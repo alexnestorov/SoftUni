@@ -1,0 +1,1 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\TrapezoidArea\bin\Debug\TrapezoidArea.exe.config

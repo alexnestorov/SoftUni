@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\04.Fruit-Or-Vegetable\bin\Debug\04.Fruit-Or-Vegetable.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\04.Fruit-Or-Vegetable\bin\Debug\04.Fruit-Or-Vegetable.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\04.Fruit-Or-Vegetable\bin\Debug\04.Fruit-Or-Vegetable.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\04.Fruit-Or-Vegetable\obj\Debug\04.Fruit-Or-Vegetable.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\04.Fruit-Or-Vegetable\obj\Debug\04.Fruit-Or-Vegetable.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\04.Fruit-Or-Vegetable\obj\Debug\04.Fruit-Or-Vegetable.pdb

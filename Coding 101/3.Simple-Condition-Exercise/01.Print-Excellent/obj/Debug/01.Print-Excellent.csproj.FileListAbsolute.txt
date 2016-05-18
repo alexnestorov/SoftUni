@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\01.Print-Excellent\bin\Debug\01.Print-Excellent.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\01.Print-Excellent\bin\Debug\01.Print-Excellent.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\01.Print-Excellent\bin\Debug\01.Print-Excellent.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\01.Print-Excellent\obj\Debug\01.Print-Excellent.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\01.Print-Excellent\obj\Debug\01.Print-Excellent.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\01.Print-Excellent\obj\Debug\01.Print-Excellent.pdb

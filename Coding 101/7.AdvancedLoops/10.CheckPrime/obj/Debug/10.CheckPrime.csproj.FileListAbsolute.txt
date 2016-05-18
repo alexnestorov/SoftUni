@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\7.AdvancedLoops\10.CheckPrime\bin\Debug\10.CheckPrime.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\7.AdvancedLoops\10.CheckPrime\bin\Debug\10.CheckPrime.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\7.AdvancedLoops\10.CheckPrime\bin\Debug\10.CheckPrime.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\7.AdvancedLoops\10.CheckPrime\obj\Debug\10.CheckPrime.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\7.AdvancedLoops\10.CheckPrime\obj\Debug\10.CheckPrime.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\7.AdvancedLoops\10.CheckPrime\obj\Debug\10.CheckPrime.csprojResolveAssemblyReference.cache

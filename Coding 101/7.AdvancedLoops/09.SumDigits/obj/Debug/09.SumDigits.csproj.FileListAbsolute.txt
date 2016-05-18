@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\7.AdvancedLoops\09.SumDigits\bin\Debug\09.SumDigits.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\7.AdvancedLoops\09.SumDigits\bin\Debug\09.SumDigits.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\7.AdvancedLoops\09.SumDigits\bin\Debug\09.SumDigits.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\7.AdvancedLoops\09.SumDigits\obj\Debug\09.SumDigits.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\7.AdvancedLoops\09.SumDigits\obj\Debug\09.SumDigits.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\7.AdvancedLoops\09.SumDigits\obj\Debug\09.SumDigits.pdb

@@ -1,0 +1,5 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\04.SumNumbers\bin\Debug\04.SumNumbers.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\04.SumNumbers\bin\Debug\04.SumNumbers.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\04.SumNumbers\bin\Debug\04.SumNumbers.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\04.SumNumbers\obj\Debug\04.SumNumbers.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\04.SumNumbers\obj\Debug\04.SumNumbers.pdb

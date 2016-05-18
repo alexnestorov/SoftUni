@@ -1,0 +1,5 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\06.CircleAreaAndPerimetres\bin\Debug\06.CircleAreaAndPerimetres.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\06.CircleAreaAndPerimetres\bin\Debug\06.CircleAreaAndPerimetres.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\06.CircleAreaAndPerimetres\bin\Debug\06.CircleAreaAndPerimetres.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\06.CircleAreaAndPerimetres\obj\Debug\06.CircleAreaAndPerimetres.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\06.CircleAreaAndPerimetres\obj\Debug\06.CircleAreaAndPerimetres.pdb

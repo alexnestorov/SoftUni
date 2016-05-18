@@ -1,0 +1,8 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\10.RectangleWithStars\bin\Debug\10.RectangleWithStars.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\10.RectangleWithStars\bin\Debug\10.RectangleWithStars.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\10.RectangleWithStars\bin\Debug\10.RectangleWithStars.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\10.RectangleWithStars\obj\Debug\10.RectangleWithStars.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\10.RectangleWithStars\obj\Debug\10.RectangleWithStars.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\10.RectangleWithStars\bin\Debug\10.RectangleWithStars.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\10.RectangleWithStars\obj\Debug\10.RectangleWithStars.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\10.RectangleWithStars\obj\Debug\10.RectangleWithStars.pdb

@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\15.EqualSumNumbers\bin\Debug\15.EqualSumNumbers.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\15.EqualSumNumbers\bin\Debug\15.EqualSumNumbers.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\15.EqualSumNumbers\bin\Debug\15.EqualSumNumbers.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\15.EqualSumNumbers\obj\Debug\15.EqualSumNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\15.EqualSumNumbers\obj\Debug\15.EqualSumNumbers.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\15.EqualSumNumbers\obj\Debug\15.EqualSumNumbers.pdb

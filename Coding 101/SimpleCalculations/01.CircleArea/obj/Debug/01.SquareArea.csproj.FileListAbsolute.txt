@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\ConsoleApplication1\obj\Debug\01.SquareArea.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

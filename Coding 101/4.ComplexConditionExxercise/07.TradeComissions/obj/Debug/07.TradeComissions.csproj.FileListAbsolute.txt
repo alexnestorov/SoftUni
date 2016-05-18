@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\07.TradeComissions\bin\Debug\07.TradeComissions.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\07.TradeComissions\bin\Debug\07.TradeComissions.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\07.TradeComissions\bin\Debug\07.TradeComissions.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\07.TradeComissions\obj\Debug\07.TradeComissions.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\07.TradeComissions\obj\Debug\07.TradeComissions.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\07.TradeComissions\obj\Debug\07.TradeComissions.pdb

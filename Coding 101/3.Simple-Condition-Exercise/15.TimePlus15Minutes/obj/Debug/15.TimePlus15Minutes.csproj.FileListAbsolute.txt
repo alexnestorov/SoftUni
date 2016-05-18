@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\15.TimePlus15Minutes\bin\Debug\15.TimePlus15Minutes.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\15.TimePlus15Minutes\bin\Debug\15.TimePlus15Minutes.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\15.TimePlus15Minutes\bin\Debug\15.TimePlus15Minutes.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\15.TimePlus15Minutes\obj\Debug\15.TimePlus15Minutes.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\15.TimePlus15Minutes\obj\Debug\15.TimePlus15Minutes.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\15.TimePlus15Minutes\obj\Debug\15.TimePlus15Minutes.pdb

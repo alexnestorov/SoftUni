@@ -1,0 +1,12 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\07.SumNumbersBy3\bin\Debug\07.SumNumbersBy3.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\07.SumNumbersBy3\obj\Debug\07.SumNumbersBy3.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\07.SumNumbersBy3\bin\Debug\07.SumNumbersBy3.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\07.SumNumbersBy3\bin\Debug\07.SumNumbersBy3.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\07.SumNumbersBy3\obj\Debug\07.SumNumbersBy3.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\07.SumNumbersBy3\obj\Debug\07.SumNumbersBy3.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\07.SumNumbersBy3\bin\Debug\07.SumNumbersBy3.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\07.SumNumbersBy3\obj\Debug\07.SumNumbersBy3.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\07.SumNumbersBy3\obj\Debug\07.SumNumbersBy3.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\07.SumNumbersBy3\bin\Debug\07.SumNumbersBy3.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\07.SumNumbersBy3\bin\Debug\07.SumNumbersBy3.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\07.SumNumbersBy3\obj\Debug\07.SumNumbersBy3.csprojResolveAssemblyReference.cache

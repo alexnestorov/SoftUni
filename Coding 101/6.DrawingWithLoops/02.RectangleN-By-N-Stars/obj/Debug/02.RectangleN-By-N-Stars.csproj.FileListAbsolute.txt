@@ -1,0 +1,5 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\02.RectangleN-By-N-Stars\bin\Debug\02.RectangleN-By-N-Stars.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\02.RectangleN-By-N-Stars\bin\Debug\02.RectangleN-By-N-Stars.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\02.RectangleN-By-N-Stars\bin\Debug\02.RectangleN-By-N-Stars.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\02.RectangleN-By-N-Stars\obj\Debug\02.RectangleN-By-N-Stars.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\02.RectangleN-By-N-Stars\obj\Debug\02.RectangleN-By-N-Stars.pdb

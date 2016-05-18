@@ -1,0 +1,5 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\7.AdvancedLoops\04.EvenPowersOfTwo\bin\Debug\04.EvenPowersOfTwo.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\7.AdvancedLoops\04.EvenPowersOfTwo\bin\Debug\04.EvenPowersOfTwo.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\7.AdvancedLoops\04.EvenPowersOfTwo\bin\Debug\04.EvenPowersOfTwo.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\7.AdvancedLoops\04.EvenPowersOfTwo\obj\Debug\04.EvenPowersOfTwo.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\7.AdvancedLoops\04.EvenPowersOfTwo\obj\Debug\04.EvenPowersOfTwo.pdb

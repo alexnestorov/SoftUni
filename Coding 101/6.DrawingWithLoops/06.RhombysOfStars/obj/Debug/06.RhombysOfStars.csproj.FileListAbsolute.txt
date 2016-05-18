@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\06.RhombysOfStars\bin\Debug\06.RhombysOfStars.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\06.RhombysOfStars\bin\Debug\06.RhombysOfStars.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\06.RhombysOfStars\bin\Debug\06.RhombysOfStars.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\06.RhombysOfStars\obj\Debug\06.RhombysOfStars.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\06.RhombysOfStars\obj\Debug\06.RhombysOfStars.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\06.RhombysOfStars\obj\Debug\06.RhombysOfStars.pdb

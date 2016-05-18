@@ -1,0 +1,5 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\05.InvalidNumber\bin\Debug\05.InvalidNumber.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\05.InvalidNumber\bin\Debug\05.InvalidNumber.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\05.InvalidNumber\bin\Debug\05.InvalidNumber.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\05.InvalidNumber\obj\Debug\05.InvalidNumber.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\05.InvalidNumber\obj\Debug\05.InvalidNumber.pdb

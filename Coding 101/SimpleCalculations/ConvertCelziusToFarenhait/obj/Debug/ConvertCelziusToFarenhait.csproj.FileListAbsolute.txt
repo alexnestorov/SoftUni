@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\ConvertCelziusToFarenhait\bin\Debug\ConvertCelziusToFarenhait.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\ConvertCelziusToFarenhait\bin\Debug\ConvertCelziusToFarenhait.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\ConvertCelziusToFarenhait\bin\Debug\ConvertCelziusToFarenhait.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\ConvertCelziusToFarenhait\obj\Debug\ConvertCelziusToFarenhait.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\ConvertCelziusToFarenhait\obj\Debug\ConvertCelziusToFarenhait.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\ConvertCelziusToFarenhait\obj\Debug\ConvertCelziusToFarenhait.pdb

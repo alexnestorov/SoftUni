@@ -1,0 +1,5 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\02.Shop-Var2\bin\Debug\02.Shop-Var2.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\02.Shop-Var2\bin\Debug\02.Shop-Var2.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\02.Shop-Var2\bin\Debug\02.Shop-Var2.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\02.Shop-Var2\obj\Debug\02.Shop-Var2.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\02.Shop-Var2\obj\Debug\02.Shop-Var2.pdb

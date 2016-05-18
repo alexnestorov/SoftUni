@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\03.LatinLetters\bin\Debug\03.LatinLetters.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\03.LatinLetters\bin\Debug\03.LatinLetters.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\03.LatinLetters\bin\Debug\03.LatinLetters.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\03.LatinLetters\obj\Debug\03.LatinLetters.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\03.LatinLetters\obj\Debug\03.LatinLetters.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\03.LatinLetters\obj\Debug\03.LatinLetters.csprojResolveAssemblyReference.cache

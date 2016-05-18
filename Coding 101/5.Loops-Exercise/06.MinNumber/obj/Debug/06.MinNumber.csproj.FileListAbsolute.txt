@@ -1,0 +1,5 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\06.MinNumber\bin\Debug\06.MinNumber.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\06.MinNumber\bin\Debug\06.MinNumber.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\06.MinNumber\bin\Debug\06.MinNumber.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\06.MinNumber\obj\Debug\06.MinNumber.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\06.MinNumber\obj\Debug\06.MinNumber.pdb

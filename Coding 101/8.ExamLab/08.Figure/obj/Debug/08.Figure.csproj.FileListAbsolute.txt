@@ -1,0 +1,5 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\08.Figure\bin\Debug\08.Figure.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\08.Figure\bin\Debug\08.Figure.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\08.Figure\bin\Debug\08.Figure.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\08.Figure\obj\Debug\08.Figure.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\08.Figure\obj\Debug\08.Figure.pdb

@@ -1,0 +1,5 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\07.LeftAndRightSum\bin\Debug\07.LeftAndRightSum.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\07.LeftAndRightSum\bin\Debug\07.LeftAndRightSum.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\07.LeftAndRightSum\bin\Debug\07.LeftAndRightSum.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\07.LeftAndRightSum\obj\Debug\07.LeftAndRightSum.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\07.LeftAndRightSum\obj\Debug\07.LeftAndRightSum.pdb

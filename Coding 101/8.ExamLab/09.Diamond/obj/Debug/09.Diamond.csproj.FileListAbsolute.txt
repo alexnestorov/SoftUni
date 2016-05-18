@@ -1,0 +1,12 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\09.Diamond\bin\Debug\09.Diamond.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\09.Diamond\bin\Debug\09.Diamond.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\09.Diamond\bin\Debug\09.Diamond.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\09.Diamond\obj\Debug\09.Diamond.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\09.Diamond\obj\Debug\09.Diamond.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\09.Diamond\obj\Debug\09.Diamond.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\09.Diamond\bin\Debug\09.Diamond.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\09.Diamond\obj\Debug\09.Diamond.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\09.Diamond\obj\Debug\09.Diamond.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\09.Diamond\bin\Debug\09.Diamond.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\09.Diamond\bin\Debug\09.Diamond.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\09.Diamond\obj\Debug\09.Diamond.csprojResolveAssemblyReference.cache

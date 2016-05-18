@@ -1,0 +1,12 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\12.GenerateRectangles\bin\Debug\12.GenerateRectangles.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\12.GenerateRectangles\bin\Debug\12.GenerateRectangles.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\12.GenerateRectangles\bin\Debug\12.GenerateRectangles.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\12.GenerateRectangles\obj\Debug\12.GenerateRectangles.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\12.GenerateRectangles\obj\Debug\12.GenerateRectangles.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\12.GenerateRectangles\obj\Debug\12.GenerateRectangles.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\12.GenerateRectangles\bin\Debug\12.GenerateRectangles.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\12.GenerateRectangles\obj\Debug\12.GenerateRectangles.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\12.GenerateRectangles\obj\Debug\12.GenerateRectangles.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\12.GenerateRectangles\bin\Debug\12.GenerateRectangles.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\12.GenerateRectangles\bin\Debug\12.GenerateRectangles.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\12.GenerateRectangles\obj\Debug\12.GenerateRectangles.csprojResolveAssemblyReference.cache

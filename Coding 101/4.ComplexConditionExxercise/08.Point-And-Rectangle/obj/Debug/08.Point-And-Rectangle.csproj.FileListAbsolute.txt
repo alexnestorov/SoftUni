@@ -1,0 +1,9 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\08.Point-And-Rectangle\bin\Debug\08.Point-And-Rectangle.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\08.Point-And-Rectangle\bin\Debug\08.Point-And-Rectangle.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\08.Point-And-Rectangle\bin\Debug\08.Point-And-Rectangle.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\08.Point-And-Rectangle\obj\Debug\08.Point-And-Rectangle.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\08.Point-And-Rectangle\obj\Debug\_08.Point_And_Rectangle.Form1.resources
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\08.Point-And-Rectangle\obj\Debug\_08.Point_And_Rectangle.Properties.Resources.resources
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\08.Point-And-Rectangle\obj\Debug\08.Point-And-Rectangle.csproj.GenerateResource.Cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\08.Point-And-Rectangle\obj\Debug\08.Point-And-Rectangle.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\08.Point-And-Rectangle\obj\Debug\08.Point-And-Rectangle.pdb

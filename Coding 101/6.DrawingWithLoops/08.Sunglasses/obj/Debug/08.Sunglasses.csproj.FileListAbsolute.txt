@@ -1,0 +1,5 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\08.Sunglasses\bin\Debug\08.Sunglasses.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\08.Sunglasses\bin\Debug\08.Sunglasses.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\08.Sunglasses\bin\Debug\08.Sunglasses.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\08.Sunglasses\obj\Debug\08.Sunglasses.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\08.Sunglasses\obj\Debug\08.Sunglasses.pdb

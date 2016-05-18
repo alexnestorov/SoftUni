@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\05.Convert-Number-To-Text\bin\Debug\05.Convert-Number-To-Text.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\05.Convert-Number-To-Text\bin\Debug\05.Convert-Number-To-Text.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\05.Convert-Number-To-Text\bin\Debug\05.Convert-Number-To-Text.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\05.Convert-Number-To-Text\obj\Debug\05.Convert-Number-To-Text.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\05.Convert-Number-To-Text\obj\Debug\05.Convert-Number-To-Text.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\05.Convert-Number-To-Text\obj\Debug\05.Convert-Number-To-Text.pdb

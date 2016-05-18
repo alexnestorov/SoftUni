@@ -1,0 +1,10 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\05.DateAfter5Days\bin\Debug\05.DateAfter5Days.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\05.DateAfter5Days\bin\Debug\05.DateAfter5Days.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\05.DateAfter5Days\bin\Debug\05.DateAfter5Days.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\05.DateAfter5Days\obj\Debug\05.DateAfter5Days.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\05.DateAfter5Days\obj\Debug\05.DateAfter5Days.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\05.DateAfter5Days\bin\Debug\05.DateAfter5Days.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\05.DateAfter5Days\obj\Debug\05.DateAfter5Days.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\05.DateAfter5Days\obj\Debug\05.DateAfter5Days.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\05.DateAfter5Days\bin\Debug\05.DateAfter5Days.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\05.DateAfter5Days\bin\Debug\05.DateAfter5Days.pdb

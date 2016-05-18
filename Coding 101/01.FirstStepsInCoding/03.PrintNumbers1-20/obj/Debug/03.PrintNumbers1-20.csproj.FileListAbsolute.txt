@@ -1,0 +1,5 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\01.FirstStepsInCoding\03.PrintNumbers1-20\bin\Debug\03.PrintNumbers1-20.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\01.FirstStepsInCoding\03.PrintNumbers1-20\bin\Debug\03.PrintNumbers1-20.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\01.FirstStepsInCoding\03.PrintNumbers1-20\bin\Debug\03.PrintNumbers1-20.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\01.FirstStepsInCoding\03.PrintNumbers1-20\obj\Debug\03.PrintNumbers1-20.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\01.FirstStepsInCoding\03.PrintNumbers1-20\obj\Debug\03.PrintNumbers1-20.pdb

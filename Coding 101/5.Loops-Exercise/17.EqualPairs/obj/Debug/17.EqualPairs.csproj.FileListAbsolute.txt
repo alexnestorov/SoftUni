@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\17.EqualPairs\bin\Debug\17.EqualPairs.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\17.EqualPairs\bin\Debug\17.EqualPairs.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\17.EqualPairs\bin\Debug\17.EqualPairs.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\17.EqualPairs\obj\Debug\17.EqualPairs.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\17.EqualPairs\obj\Debug\17.EqualPairs.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\17.EqualPairs\obj\Debug\17.EqualPairs.pdb

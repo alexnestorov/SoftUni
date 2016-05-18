@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\03.Point-In-Out-Reactangle\bin\Debug\3.Point-In-Out-Reactangle.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\03.Point-In-Out-Reactangle\bin\Debug\3.Point-In-Out-Reactangle.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\03.Point-In-Out-Reactangle\bin\Debug\3.Point-In-Out-Reactangle.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\03.Point-In-Out-Reactangle\obj\Debug\03.Point-In-Out-Reactangle.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\03.Point-In-Out-Reactangle\obj\Debug\3.Point-In-Out-Reactangle.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\4.ComplexConditionExxercise\03.Point-In-Out-Reactangle\obj\Debug\3.Point-In-Out-Reactangle.pdb

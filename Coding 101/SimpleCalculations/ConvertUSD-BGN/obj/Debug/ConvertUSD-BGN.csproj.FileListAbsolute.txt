@@ -1,0 +1,5 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\ConvertUSD-BGN\bin\Debug\ConvertUSD-BGN.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\ConvertUSD-BGN\bin\Debug\ConvertUSD-BGN.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\ConvertUSD-BGN\bin\Debug\ConvertUSD-BGN.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\ConvertUSD-BGN\obj\Debug\ConvertUSD-BGN.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\ConvertUSD-BGN\obj\Debug\ConvertUSD-BGN.pdb

@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\7.AdvancedLoops\01.Numbers1ToN-By3\bin\Debug\01.Numbers1ToN-By3.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\7.AdvancedLoops\01.Numbers1ToN-By3\bin\Debug\01.Numbers1ToN-By3.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\7.AdvancedLoops\01.Numbers1ToN-By3\bin\Debug\01.Numbers1ToN-By3.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\7.AdvancedLoops\01.Numbers1ToN-By3\obj\Debug\01.Numbers1ToN-By3.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\7.AdvancedLoops\01.Numbers1ToN-By3\obj\Debug\01.Numbers1ToN-By3.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\7.AdvancedLoops\01.Numbers1ToN-By3\obj\Debug\01.Numbers1ToN-By3.pdb

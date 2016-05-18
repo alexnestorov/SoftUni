@@ -1,0 +1,5 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\08.TriangleArea\bin\Debug\08.TriangleArea.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\08.TriangleArea\bin\Debug\08.TriangleArea.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\08.TriangleArea\bin\Debug\08.TriangleArea.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\08.TriangleArea\obj\Debug\08.TriangleArea.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\08.TriangleArea\obj\Debug\08.TriangleArea.pdb

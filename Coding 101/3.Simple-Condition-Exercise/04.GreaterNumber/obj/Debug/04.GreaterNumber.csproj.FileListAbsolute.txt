@@ -1,0 +1,5 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\04.GreaterNumber\bin\Debug\04.GreaterNumber.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\04.GreaterNumber\bin\Debug\04.GreaterNumber.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\04.GreaterNumber\bin\Debug\04.GreaterNumber.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\04.GreaterNumber\obj\Debug\04.GreaterNumber.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\04.GreaterNumber\obj\Debug\04.GreaterNumber.pdb

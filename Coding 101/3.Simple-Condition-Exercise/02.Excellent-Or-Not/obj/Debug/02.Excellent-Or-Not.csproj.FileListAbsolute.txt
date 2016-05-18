@@ -1,0 +1,5 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\02.Excellent-Or-Not\bin\Debug\02.Excellent-Or-Not.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\02.Excellent-Or-Not\bin\Debug\02.Excellent-Or-Not.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\02.Excellent-Or-Not\bin\Debug\02.Excellent-Or-Not.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\02.Excellent-Or-Not\obj\Debug\02.Excellent-Or-Not.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\02.Excellent-Or-Not\obj\Debug\02.Excellent-Or-Not.pdb

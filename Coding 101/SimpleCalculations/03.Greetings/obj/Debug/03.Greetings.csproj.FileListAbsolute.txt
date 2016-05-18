@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\03.Greetings\bin\Debug\03.Greetings.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\03.Greetings\bin\Debug\03.Greetings.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\03.Greetings\bin\Debug\03.Greetings.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\03.Greetings\obj\Debug\03.Greetings.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\03.Greetings\obj\Debug\03.Greetings.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\03.Greetings\obj\Debug\03.Greetings.csprojResolveAssemblyReference.cache

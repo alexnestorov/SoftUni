@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\14.Area-Of-Figures\bin\Debug\14.Area-Of-Figures.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\14.Area-Of-Figures\obj\Debug\14.Area-Of-Figures.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\14.Area-Of-Figures\bin\Debug\14.Area-Of-Figures.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\14.Area-Of-Figures\bin\Debug\14.Area-Of-Figures.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\14.Area-Of-Figures\obj\Debug\14.Area-Of-Figures.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\14.Area-Of-Figures\obj\Debug\14.Area-Of-Figures.pdb

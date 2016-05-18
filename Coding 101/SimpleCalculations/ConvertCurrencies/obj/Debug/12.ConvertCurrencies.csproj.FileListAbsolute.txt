@@ -1,0 +1,5 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\ConvertCurrencies\bin\Debug\ConvertCurrencies.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\ConvertCurrencies\bin\Debug\ConvertCurrencies.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\ConvertCurrencies\bin\Debug\ConvertCurrencies.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\ConvertCurrencies\obj\Debug\ConvertCurrencies.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\ConvertCurrencies\obj\Debug\ConvertCurrencies.pdb

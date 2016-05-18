@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\08.ConvertMeasures\bin\Debug\08.ConvertMeasures.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\08.ConvertMeasures\bin\Debug\08.ConvertMeasures.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\08.ConvertMeasures\bin\Debug\08.ConvertMeasures.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\08.ConvertMeasures\obj\Debug\08.ConvertMeasures.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\08.ConvertMeasures\obj\Debug\08.ConvertMeasures.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\3.Simple-Condition-Exercise\08.ConvertMeasures\obj\Debug\08.ConvertMeasures.pdb

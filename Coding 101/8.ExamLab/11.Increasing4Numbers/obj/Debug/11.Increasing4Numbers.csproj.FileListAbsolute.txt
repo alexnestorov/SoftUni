@@ -1,0 +1,8 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\11.Increasing4Numbers\bin\Debug\11.Increasing4Numbers.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\11.Increasing4Numbers\bin\Debug\11.Increasing4Numbers.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\11.Increasing4Numbers\bin\Debug\11.Increasing4Numbers.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\11.Increasing4Numbers\obj\Debug\11.Increasing4Numbers.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ExamLab\11.Increasing4Numbers\obj\Debug\11.Increasing4Numbers.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\11.Increasing4Numbers\bin\Debug\11.Increasing4Numbers.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\11.Increasing4Numbers\obj\Debug\11.Increasing4Numbers.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\8.ExamLab\11.Increasing4Numbers\obj\Debug\11.Increasing4Numbers.pdb

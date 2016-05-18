@@ -1,0 +1,5 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\09.VowelsSum\bin\Debug\09.VowelsSum.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\09.VowelsSum\bin\Debug\09.VowelsSum.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\09.VowelsSum\bin\Debug\09.VowelsSum.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\09.VowelsSum\obj\Debug\09.VowelsSum.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\09.VowelsSum\obj\Debug\09.VowelsSum.pdb

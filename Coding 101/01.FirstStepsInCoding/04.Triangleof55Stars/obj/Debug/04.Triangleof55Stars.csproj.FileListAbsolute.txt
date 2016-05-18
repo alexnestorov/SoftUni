@@ -1,0 +1,5 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\01.FirstStepsInCoding\04.Triangleof55Stars\bin\Debug\04.Triangleof55Stars.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\01.FirstStepsInCoding\04.Triangleof55Stars\bin\Debug\04.Triangleof55Stars.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\01.FirstStepsInCoding\04.Triangleof55Stars\bin\Debug\04.Triangleof55Stars.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\01.FirstStepsInCoding\04.Triangleof55Stars\obj\Debug\04.Triangleof55Stars.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\01.FirstStepsInCoding\04.Triangleof55Stars\obj\Debug\04.Triangleof55Stars.pdb

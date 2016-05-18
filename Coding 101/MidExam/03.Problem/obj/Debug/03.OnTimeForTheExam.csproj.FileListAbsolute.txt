@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\MidExam\03.Problem\bin\Debug\Problem.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\MidExam\03.Problem\obj\Debug\Problem.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\MidExam\03.Problem\obj\Debug\Problem.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\MidExam\03.Problem\bin\Debug\Problem.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\MidExam\03.Problem\bin\Debug\Problem.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\MidExam\03.Problem\obj\Debug\03.OnTimeForTheExam.csprojResolveAssemblyReference.cache

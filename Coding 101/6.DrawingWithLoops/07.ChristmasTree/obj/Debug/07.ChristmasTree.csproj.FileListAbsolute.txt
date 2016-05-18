@@ -1,0 +1,5 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\07.ChristmasTree\bin\Debug\07.ChristmasTree.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\07.ChristmasTree\bin\Debug\07.ChristmasTree.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\07.ChristmasTree\bin\Debug\07.ChristmasTree.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\07.ChristmasTree\obj\Debug\07.ChristmasTree.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\6.DrawingWithLoops\07.ChristmasTree\obj\Debug\07.ChristmasTree.pdb

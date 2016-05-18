@@ -1,0 +1,5 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\08.OddEvenSum\bin\Debug\08.OddEvenSum.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\08.OddEvenSum\bin\Debug\08.OddEvenSum.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\08.OddEvenSum\bin\Debug\08.OddEvenSum.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\08.OddEvenSum\obj\Debug\08.OddEvenSum.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\5.Loops-Exercise\08.OddEvenSum\obj\Debug\08.OddEvenSum.pdb

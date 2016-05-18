@@ -1,0 +1,5 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\ConversionBGN-EUR\bin\Debug\ConversionBGN-EUR.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\ConversionBGN-EUR\obj\Debug\ConversionBGN-EUR.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\ConversionBGN-EUR\obj\Debug\ConversionBGN_EUR.Form1.resources
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\ConversionBGN-EUR\obj\Debug\ConversionBGN_EUR.Properties.Resources.resources
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\SimpleCalculations\ConversionBGN-EUR\obj\Debug\ConversionBGN-EUR.csproj.GenerateResource.Cache
