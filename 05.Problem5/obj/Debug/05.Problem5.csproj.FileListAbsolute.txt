@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\Exam24April2016\05.Problem5\bin\Debug\05.Problem5.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\Exam24April2016\05.Problem5\bin\Debug\05.Problem5.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\Exam24April2016\05.Problem5\bin\Debug\05.Problem5.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\Exam24April2016\05.Problem5\obj\Debug\05.Problem5.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\Exam24April2016\05.Problem5\obj\Debug\05.Problem5.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingForBeginners\Exam24April2016\05.Problem5\obj\Debug\05.Problem5.csprojResolveAssemblyReference.cache
