@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.SpiralMatrix\bin\Debug\04.SpiralMatrix.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.SpiralMatrix\bin\Debug\04.SpiralMatrix.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.SpiralMatrix\bin\Debug\04.SpiralMatrix.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.SpiralMatrix\obj\Debug\04.SpiralMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.SpiralMatrix\obj\Debug\04.SpiralMatrix.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.SpiralMatrix\obj\Debug\04.SpiralMatrix.pdb

@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.BasketBattle\bin\Debug\02.BasketBattle.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.BasketBattle\bin\Debug\02.BasketBattle.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.BasketBattle\bin\Debug\02.BasketBattle.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.BasketBattle\obj\Debug\02.BasketBattle.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.BasketBattle\obj\Debug\02.BasketBattle.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.BasketBattle\obj\Debug\02.BasketBattle.pdb

@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\01.CompoundInterest\bin\Debug\01.CompoundInterest.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\01.CompoundInterest\obj\Debug\01.CompoundInterest.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\01.CompoundInterest\bin\Debug\01.CompoundInterest.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\01.CompoundInterest\bin\Debug\01.CompoundInterest.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\01.CompoundInterest\obj\Debug\01.CompoundInterest.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\01.CompoundInterest\obj\Debug\01.CompoundInterest.pdb

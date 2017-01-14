@@ -1,0 +1,5 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\03.RockLq\bin\Debug\03.RockLq.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\03.RockLq\bin\Debug\03.RockLq.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\03.RockLq\bin\Debug\03.RockLq.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\03.RockLq\obj\Debug\03.RockLq.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\03.RockLq\obj\Debug\03.RockLq.pdb

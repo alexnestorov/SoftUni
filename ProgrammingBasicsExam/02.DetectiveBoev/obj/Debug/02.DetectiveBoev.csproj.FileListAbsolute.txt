@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.DetectiveBoev\bin\Debug\02.DetectiveBoev.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.DetectiveBoev\bin\Debug\02.DetectiveBoev.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.DetectiveBoev\bin\Debug\02.DetectiveBoev.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.DetectiveBoev\obj\Debug\02.DetectiveBoev.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.DetectiveBoev\obj\Debug\02.DetectiveBoev.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.DetectiveBoev\obj\Debug\02.DetectiveBoev.pdb

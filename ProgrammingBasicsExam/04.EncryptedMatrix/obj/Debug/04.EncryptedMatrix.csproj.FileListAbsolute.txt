@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.EncryptedMatrix\bin\Debug\04.EncryptedMatrix.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.EncryptedMatrix\bin\Debug\04.EncryptedMatrix.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.EncryptedMatrix\bin\Debug\04.EncryptedMatrix.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.EncryptedMatrix\obj\Debug\04.EncryptedMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.EncryptedMatrix\obj\Debug\04.EncryptedMatrix.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.EncryptedMatrix\obj\Debug\04.EncryptedMatrix.pdb

@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.PhoneProcesses\bin\Debug\04.PhoneProcesses.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.PhoneProcesses\bin\Debug\04.PhoneProcesses.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.PhoneProcesses\bin\Debug\04.PhoneProcesses.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.PhoneProcesses\obj\Debug\04.PhoneProcesses.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.PhoneProcesses\obj\Debug\04.PhoneProcesses.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.PhoneProcesses\obj\Debug\04.PhoneProcesses.pdb

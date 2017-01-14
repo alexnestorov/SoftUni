@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.EncodedAnswers\bin\Debug\02.EncodedAnswers.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.EncodedAnswers\bin\Debug\02.EncodedAnswers.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.EncodedAnswers\bin\Debug\02.EncodedAnswers.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.EncodedAnswers\obj\Debug\02.EncodedAnswers.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.EncodedAnswers\obj\Debug\02.EncodedAnswers.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.EncodedAnswers\obj\Debug\02.EncodedAnswers.pdb

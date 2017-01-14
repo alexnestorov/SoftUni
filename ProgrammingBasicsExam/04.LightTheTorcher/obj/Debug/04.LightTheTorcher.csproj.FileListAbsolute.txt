@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.LightTheTorcher\bin\Debug\04.LightTheTorcher.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.LightTheTorcher\bin\Debug\04.LightTheTorcher.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.LightTheTorcher\bin\Debug\04.LightTheTorcher.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.LightTheTorcher\obj\Debug\04.LightTheTorcher.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.LightTheTorcher\obj\Debug\04.LightTheTorcher.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.LightTheTorcher\obj\Debug\04.LightTheTorcher.pdb

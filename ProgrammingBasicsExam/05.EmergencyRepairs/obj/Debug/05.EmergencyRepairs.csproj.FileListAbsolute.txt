@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\05.EmergencyRepairs\bin\Debug\05.EmergencyRepairs.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\05.EmergencyRepairs\bin\Debug\05.EmergencyRepairs.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\05.EmergencyRepairs\bin\Debug\05.EmergencyRepairs.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\05.EmergencyRepairs\obj\Debug\05.EmergencyRepairs.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\05.EmergencyRepairs\obj\Debug\05.EmergencyRepairs.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\05.EmergencyRepairs\obj\Debug\05.EmergencyRepairs.pdb

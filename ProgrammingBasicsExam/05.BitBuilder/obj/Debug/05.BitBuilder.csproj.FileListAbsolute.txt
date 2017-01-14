@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\05.BitBuilder\bin\Debug\05.BitBuilder.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\05.BitBuilder\bin\Debug\05.BitBuilder.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\05.BitBuilder\bin\Debug\05.BitBuilder.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\05.BitBuilder\obj\Debug\05.BitBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\05.BitBuilder\obj\Debug\05.BitBuilder.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\05.BitBuilder\obj\Debug\05.BitBuilder.pdb

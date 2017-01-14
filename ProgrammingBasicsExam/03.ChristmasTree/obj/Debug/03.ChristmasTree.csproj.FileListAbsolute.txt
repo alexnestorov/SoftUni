@@ -1,0 +1,5 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\03.ChristmasTree\bin\Debug\03.ChristmasTree.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\03.ChristmasTree\bin\Debug\03.ChristmasTree.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\03.ChristmasTree\bin\Debug\03.ChristmasTree.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\03.ChristmasTree\obj\Debug\03.ChristmasTree.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\03.ChristmasTree\obj\Debug\03.ChristmasTree.pdb

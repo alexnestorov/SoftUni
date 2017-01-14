@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.ChessBoardGame\bin\Debug\02.ChessBoardGame.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.ChessBoardGame\bin\Debug\02.ChessBoardGame.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.ChessBoardGame\bin\Debug\02.ChessBoardGame.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.ChessBoardGame\obj\Debug\02.ChessBoardGame.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.ChessBoardGame\obj\Debug\02.ChessBoardGame.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.ChessBoardGame\obj\Debug\02.ChessBoardGame.pdb
