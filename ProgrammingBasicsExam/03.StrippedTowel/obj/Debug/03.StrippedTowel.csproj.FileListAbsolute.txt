@@ -1,6 +1,0 @@
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\03.StrippedTowel\bin\Debug\03.StrippedTowel.exe.config
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\03.StrippedTowel\bin\Debug\03.StrippedTowel.exe
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\03.StrippedTowel\bin\Debug\03.StrippedTowel.pdb
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\03.StrippedTowel\obj\Debug\03.StrippedTowel.exe
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\03.StrippedTowel\obj\Debug\03.StrippedTowel.pdb
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\03.StrippedTowel\obj\Debug\03.StrippedTowel.csprojResolveAssemblyReference.cache

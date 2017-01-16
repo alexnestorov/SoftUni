@@ -1,6 +1,0 @@
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.PetarGame\bin\Debug\02.PetarGame.exe.config
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.PetarGame\obj\Debug\02.PetarGame.csprojResolveAssemblyReference.cache
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.PetarGame\bin\Debug\02.PetarGame.exe
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.PetarGame\bin\Debug\02.PetarGame.pdb
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.PetarGame\obj\Debug\02.PetarGame.exe
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.PetarGame\obj\Debug\02.PetarGame.pdb

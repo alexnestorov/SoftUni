@@ -1,6 +1,0 @@
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.TakeThePlaneDown\bin\Debug\02.TakeThePlaneDown.exe.config
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.TakeThePlaneDown\bin\Debug\02.TakeThePlaneDown.exe
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.TakeThePlaneDown\bin\Debug\02.TakeThePlaneDown.pdb
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.TakeThePlaneDown\obj\Debug\02.TakeThePlaneDown.csprojResolveAssemblyReference.cache
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.TakeThePlaneDown\obj\Debug\02.TakeThePlaneDown.exe
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.TakeThePlaneDown\obj\Debug\02.TakeThePlaneDown.pdb

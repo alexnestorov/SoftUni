@@ -1,6 +1,0 @@
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.PerfectGirlfriend\bin\Debug\04.PerfectGirlfriend.exe.config
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.PerfectGirlfriend\bin\Debug\04.PerfectGirlfriend.exe
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.PerfectGirlfriend\bin\Debug\04.PerfectGirlfriend.pdb
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.PerfectGirlfriend\obj\Debug\04.PerfectGirlfriend.csprojResolveAssemblyReference.cache
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.PerfectGirlfriend\obj\Debug\04.PerfectGirlfriend.exe
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.PerfectGirlfriend\obj\Debug\04.PerfectGirlfriend.pdb

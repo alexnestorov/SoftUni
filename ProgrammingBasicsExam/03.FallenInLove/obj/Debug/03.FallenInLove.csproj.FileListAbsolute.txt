@@ -1,6 +1,0 @@
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\03.FallenInLove\bin\Debug\03.FallenInLove.exe.config
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\03.FallenInLove\obj\Debug\03.FallenInLove.csprojResolveAssemblyReference.cache
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\03.FallenInLove\bin\Debug\03.FallenInLove.exe
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\03.FallenInLove\bin\Debug\03.FallenInLove.pdb
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\03.FallenInLove\obj\Debug\03.FallenInLove.exe
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\03.FallenInLove\obj\Debug\03.FallenInLove.pdb

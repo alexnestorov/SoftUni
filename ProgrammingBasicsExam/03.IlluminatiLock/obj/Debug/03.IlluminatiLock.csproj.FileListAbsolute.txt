@@ -1,6 +1,0 @@
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\03.IlluminatiLock\bin\Debug\03.IlluminatiLock.exe.config
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\03.IlluminatiLock\bin\Debug\03.IlluminatiLock.exe
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\03.IlluminatiLock\bin\Debug\03.IlluminatiLock.pdb
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\03.IlluminatiLock\obj\Debug\03.IlluminatiLock.exe
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\03.IlluminatiLock\obj\Debug\03.IlluminatiLock.pdb
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\03.IlluminatiLock\obj\Debug\03.IlluminatiLock.csprojResolveAssemblyReference.cache

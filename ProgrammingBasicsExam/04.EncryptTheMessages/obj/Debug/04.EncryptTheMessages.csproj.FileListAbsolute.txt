@@ -1,6 +1,0 @@
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.EncryptTheMessages\bin\Debug\04.EncryptTheMessages.exe.config
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.EncryptTheMessages\bin\Debug\04.EncryptTheMessages.exe
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.EncryptTheMessages\bin\Debug\04.EncryptTheMessages.pdb
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.EncryptTheMessages\obj\Debug\04.EncryptTheMessages.csprojResolveAssemblyReference.cache
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.EncryptTheMessages\obj\Debug\04.EncryptTheMessages.exe
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.EncryptTheMessages\obj\Debug\04.EncryptTheMessages.pdb

@@ -1,6 +1,0 @@
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.TheFootballStatician\bin\Debug\02.TheFootballStatician.exe.config
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.TheFootballStatician\bin\Debug\02.TheFootballStatician.exe
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.TheFootballStatician\bin\Debug\02.TheFootballStatician.pdb
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.TheFootballStatician\obj\Debug\02.TheFootballStatician.csprojResolveAssemblyReference.cache
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.TheFootballStatician\obj\Debug\02.TheFootballStatician.exe
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\02.TheFootballStatician\obj\Debug\02.TheFootballStatician.pdb

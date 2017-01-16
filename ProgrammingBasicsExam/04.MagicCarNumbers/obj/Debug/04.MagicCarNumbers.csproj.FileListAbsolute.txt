@@ -1,6 +1,0 @@
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.MagicCarNumbers\bin\Debug\04.MagicCarNumbers.exe.config
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.MagicCarNumbers\bin\Debug\04.MagicCarNumbers.exe
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.MagicCarNumbers\bin\Debug\04.MagicCarNumbers.pdb
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.MagicCarNumbers\obj\Debug\04.MagicCarNumbers.csprojResolveAssemblyReference.cache
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.MagicCarNumbers\obj\Debug\04.MagicCarNumbers.exe
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.MagicCarNumbers\obj\Debug\04.MagicCarNumbers.pdb

@@ -1,6 +1,0 @@
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\05.SaltAndPepper\bin\Debug\05.SaltAndPepper.exe.config
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\05.SaltAndPepper\bin\Debug\05.SaltAndPepper.exe
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\05.SaltAndPepper\bin\Debug\05.SaltAndPepper.pdb
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\05.SaltAndPepper\obj\Debug\05.SaltAndPepper.csprojResolveAssemblyReference.cache
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\05.SaltAndPepper\obj\Debug\05.SaltAndPepper.exe
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\05.SaltAndPepper\obj\Debug\05.SaltAndPepper.pdb

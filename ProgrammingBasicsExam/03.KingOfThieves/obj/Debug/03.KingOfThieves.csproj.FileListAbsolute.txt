@@ -1,5 +1,0 @@
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\03.KingOfThieves\bin\Debug\03.KingOfThieves.exe.config
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\03.KingOfThieves\bin\Debug\03.KingOfThieves.exe
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\03.KingOfThieves\bin\Debug\03.KingOfThieves.pdb
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\03.KingOfThieves\obj\Debug\03.KingOfThieves.exe
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\03.KingOfThieves\obj\Debug\03.KingOfThieves.pdb

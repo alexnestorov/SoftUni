@@ -1,6 +1,0 @@
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.DecryptTheMessages\bin\Debug\04.DecryptTheMessages.exe.config
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.DecryptTheMessages\obj\Debug\04.DecryptTheMessages.csprojResolveAssemblyReference.cache
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.DecryptTheMessages\bin\Debug\04.DecryptTheMessages.exe
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.DecryptTheMessages\bin\Debug\04.DecryptTheMessages.pdb
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.DecryptTheMessages\obj\Debug\04.DecryptTheMessages.exe
-C:\Users\Alexander\Documents\Visual Studio 2015\SoftUniProjects\ProgrammingBasicsExam\04.DecryptTheMessages\obj\Debug\04.DecryptTheMessages.pdb
